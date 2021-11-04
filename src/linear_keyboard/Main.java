@@ -1,5 +1,8 @@
 package linear_keyboard;
 
+//Level - 800
+//Link: https://codeforces.com/problemset/problem/1607/A
+
 import java.util.*;
 
 public class Main {
