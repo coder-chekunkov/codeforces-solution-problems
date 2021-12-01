@@ -12,7 +12,7 @@ Codeforces -  это веб-сайт, на котором проводятся �
 
 --------------------------------
 
-## 🏆👨‍🎓 "Solving problems from <Codeforces>"
+## 🏆👨‍🎓 "Solving problems from Codeforces"
 
 Codeforces is a website that hosts programming contests. It is supported by a group of competitive ITMO 
 University programmers headed by Mikhail Mirzayanov. Since 2013, Codeforces claims to outperform Topcoder 
