@@ -1,25 +1,29 @@
-## 🏆👨‍🎓 "Решение задач с сайта Codeforces"
+### 🏆 Решение задач с сайта "Codeforces"
 
-Codeforces -  это веб-сайт, на котором проводятся соревнования по программированию. Его поддерживает 
-группа конкурентоспособных программистов Университета ИТМО во главе с Михаилом Мирзаяновым. С 2013 
-года Codeforces утверждает, что превосходит Topcoder по количеству активных участников. (ссылка: https://codeforces.com/)
+**⁉ Что такое "Codeforces"?**
 
-Мой профиль на данной площадке: https://codeforces.com/profile/coder_chekunkov
+[Codeforces](https://codeforces.com/) - это веб-сайт, на котором проводятся соревнования по программированию. Его поддерживает группа конкурентоспособных программистов Университета ИТМО во главе с Михаилом Мирзаяновым. С 2013 года Codeforces утверждает, что превосходит Topcoder по количеству активных участников.
 
-В данном репозитории Вы можете увидеть все решенные мною задачи с Codeforces.
+**📦 Что находится в данном репозитории?**
 
-Спасибо!
+В данном репозитории находятся решенные задачи и соревнования с данной площадки. Моя основная цель - развиваться и занимать высокие места на контекстах. Если у Вас возникнут какие-либо вопросы по задачам - свяжитесь со мной - я обязательно отвечу Вам.
 
---------------------------------
+Если Вы хотите посетить [мой профиль](https://codeforces.com/profile/coder_chekunkov) - я буду безумно рад.
 
-## 🏆👨‍🎓 "Solving problems from Codeforces"
+**🤝 Спасибо и удачи!**
 
-Codeforces is a website that hosts programming contests. It is supported by a group of competitive ITMO 
-University programmers headed by Mikhail Mirzayanov. Since 2013, Codeforces claims to outperform Topcoder 
-in terms of the number of active members. (link: https://codeforces.com/)
+---
 
-My profile on this site: https://codeforces.com/profile/coder_chekunkov
+### 🏆 Solving problems from "Сodeforces"
 
-In this repository you can see all the problems I solved with Codeforces.
+**⁉ What is "Codegorces"**
 
-Thanks!
+[Codeforces](https://codeforces.com/) is a website that hosts programming contests. It is supported by a group of competitive ITMO University programmers headed by Mikhail Mirzayanov. Since 2013, Codeforces claims to outperform Topcoder in terms of the number of active members.
+
+**📦 What does this repository contain?**
+
+This repository contains solved problems and competitions from this site. My main goal is to develop and rank high in contexts. If you have any questions about the tasks - contact me - I will definitely answer you.
+
+If you want to visit [my profile](https://codeforces.com/profile/coder_chekunkov) - I will be extremely happy.
+
+**🤝 Thank you and good luck!**
